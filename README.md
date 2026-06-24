@@ -6,7 +6,7 @@ Implementación completa de un **Árbol AVL** (Adelson-Velsky y Landis) en Java,
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 - Ambar Salazar
 - Brenda Veintimilla 
@@ -112,3 +112,12 @@ cd AmbarCodigo
 
 # Compilar todos los archivos
 javac *.java
+```
+---
+## Uso de la Inteligencia Artificial
+
+En el desarrollo de este proyecto se emplearon herramientas de Inteligencia Artificial como soporte técnico, bajo los siguientes lineamientos de transparencia:
+
+* **Depuración de Código:** Se empleó soporte de IA como asistente de revisión para verificar la lógica de las rotaciones en `AVLTree.java` y refinar el manejo de trazas en la consola dentro de `Main.java`.
+
+**Nota:** Toda la lógica central del algoritmo, la resolución de conflictos de punteros y la toma de decisiones arquitectónicas fueron analizadas, implementadas y validadas directamente por el equipo.
