@@ -25,7 +25,7 @@ Implementación completa de un **Árbol AVL** (Adelson-Velsky y Landis) en Java,
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 avl-tree-java/
 ├── src/
 │ ├── Nodo.java # Clase Nodo del árbol
@@ -107,8 +107,7 @@ El proyecto está estructurado con las siguientes clases principales para la imp
 
 ```bash
 # Navegar al directorio del proyecto
-cd avl-tree-java/src
+cd AmbarCodigo
 
 # Compilar todos los archivos
 javac *.java
-
