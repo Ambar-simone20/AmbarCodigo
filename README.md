@@ -26,13 +26,14 @@ Implementación completa de un **Árbol AVL** (Adelson-Velsky y Landis) en Java,
 ---
 
 ## Estructura del Proyecto
-avl-tree-java/
-├── src/
-│ ├── Nodo.java # Clase Nodo del árbol
-│ ├── AVLTree.java # Implementación del AVL
-│ └── Main.java # Programa principal
-├── README.md # Documentación
-└── .gitignore
+
+* **`AmbarCodigo/`** (Directorio raíz del proyecto)
+  * ├── **`Nodo.java`**: Clase Nodo del árbol (clave, altura, e hijos).
+  * ├── **`AVLTree.java`**: Implementación principal y lógica del árbol AVL.
+  * ├── **`Main.java`**: Programa principal, pruebas y comparación de rendimiento.
+  * ├── **`README.md`**: Documentación del proyecto.
+  * └── **`.gitignore`**: Archivos y carpetas ignorados por Git.
+---
 
 ### Clases
 
