@@ -87,6 +87,15 @@ avl-tree-java/
 | **Comparaciones V₁₀ (90)** | 6 | 4 | **33.3%** |
 
 ---
+## Estructura del Código
+
+El proyecto está estructurado con las siguientes clases principales para la implementación del árbol AVL:
+
+* [Nodo.java](Nodo.java): Define la estructura básica de cada nodo del árbol (clave, altura, e hijos izquierdo/derecho).
+* [AVLTree.java](AVLTree.java): Contiene la lógica principal del árbol AVL, incluyendo las rotaciones, inserciones y el balanceo automático.
+* [Main.java](Main.java): Punto de entrada del programa donde se ejecutan las pruebas y la comparación de rendimiento.
+
+---
 
 ## Compilación y Ejecución
 
